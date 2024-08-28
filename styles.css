@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    font-size:xx-large;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(1, 5, 12);
+}
+
+img{
+    border-image: fill;
+    height: 1200px;
+    width: 2100px;
+}
